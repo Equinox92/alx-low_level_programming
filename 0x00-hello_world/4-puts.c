@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- *main - main entry point
-return: always 0 (success)
- * this is a description of the function
+main - Entry point
+Description: 'Prints desired output'
+return: Always returns 0 (success)
  */
 int main(void)
 {

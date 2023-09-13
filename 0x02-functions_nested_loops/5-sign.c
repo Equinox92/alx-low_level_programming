@@ -2,7 +2,8 @@
 /**
   * print_sign - prints the sign of a number (<=> 0)
   * @n: Check integer
-  * Return: 1 greater than 0, 0 if integer is 0 and -1 if integer is less than zero
+  * Return: 1 greater than 0, 0 if integer is 0 and
+  *-1 if integer is less than zero
   */
 int print_sign(int n)
 {

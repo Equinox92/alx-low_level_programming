@@ -5,7 +5,7 @@
   *integers must be displayed in respective order stored in array
   *@a: array
   *@n: number of elements of array to be output
-  *Return: a & n 
+  *Return: a & n
   */
 void print_array(int *a, int n)
 {

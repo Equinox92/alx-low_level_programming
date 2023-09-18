@@ -3,7 +3,7 @@
   *_puts - outputs a string to standard output
   *@str: string to output
   */
-void _puts(void)
+void _puts(char *str)
 {
 	while (*str != '\0')
 	{

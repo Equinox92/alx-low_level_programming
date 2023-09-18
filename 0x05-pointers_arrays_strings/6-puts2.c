@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-  *puts2 - selects one character to output beginning 
+  *puts2 - selects one character to output beginning
   *with the first
   *@str: input
   *Return: print output

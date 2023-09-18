@@ -6,7 +6,7 @@
   *@n: number of elements of array to be output
   *Return: a & n 
   */
-void print_array(int *a, int *n)
+void print_array(int *a, int n)
 {
 	int b;
 
@@ -14,7 +14,7 @@ void print_array(int *a, int *n)
 	{
 		printf("%d, ", a[b]);
 	}
-	if (b ==(n - 1))
+	if (b == (n - 1))
 	{
 		printf("%d", a[b - 1]);
 	}

@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio>
 /**
   *puts2 - selects one character to output beginning 
   *with the first
@@ -22,7 +23,7 @@ void puts(char *str)
 	{
 		if (a % 2 == 0)
 		{
-			_putchar(str[a])
+			_putchar(str[a]);
 	}
 	}
 	_putchar('\n');

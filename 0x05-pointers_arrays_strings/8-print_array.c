@@ -6,7 +6,7 @@
   *@n: number of elements of array to be output
   *Return: a & n 
   */
-void print_array(int n, int *a)
+void print_array(int *a, int *n)
 {
 	int b;
 

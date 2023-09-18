@@ -1,4 +1,4 @@
-#include "main."
+#include "main.h"
 /**
   *puts2 - selects one character to output beginning 
   *with the first

@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio>
 /**
   *print_array - outputs n elements of an array separated by, (_)
   *integers must be displayed in respective order stored in array

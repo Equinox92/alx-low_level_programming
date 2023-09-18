@@ -5,7 +5,7 @@
   *@str: input
   *Return: print output
   */
-void puts(char *str)
+void puts2(char *str)
 {
 	int a;
 	int ls = 0;

@@ -1,0 +1,10 @@
+[credential]
+	helper = manager
+	helper = manager-core
+	helper = store
+	helper = store
+[alias]
+	credential-manager = credential-manager-core
+[user]
+	email = aklymelody@live.com
+	name = Equinox92
